@@ -47,10 +47,12 @@
   ## chart_with_upwards_trend: Current Stats
 
 <br />
-<p align="center">
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=shahadat74238&theme=dracula&hide_border=true" />
-<img width="80%" src="https://github-readme-stats-salesp07.vercel.app/api?username=shahadat74238&count_private=true&show_icons=true&theme=dracula&rank_icon=github&hide_border=true" alt="readme stats" />
-</p>
+<div align="center">
+<img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=shahadat74238&theme=dracula&hide_border=true" />
+<img width="47%" height="" align="right" src="https://github-readme-stats-salesp07.vercel.app/api?username=shahadat74238&count_private=true&show_icons=true&theme=dracula&rank_icon=github&hide_border=true" alt="readme stats" />
+</div>
+
+
 
 
 
