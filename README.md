@@ -52,12 +52,5 @@
 <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com?user=shahadat74238&theme=dracula&hide_border=true" />
 <img width="47%"  src="https://github-readme-stats-salesp07.vercel.app/api?username=shahadat74238&count_private=true&show_icons=true&theme=dracula&rank_icon=github&hide_border=true" alt="readme stats" />
 <br/>
-  <img width="100%" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=shahadat74238&hide=HTML&langs_count=8&layout=compact&theme=dracula&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="50%" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=shahadat74238&hide=HTML&langs_count=8&layout=compact&theme=dracula&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
-
-
-
-
-
-
