@@ -4,8 +4,6 @@
 
 <h3 align="center">A passionate Web Developer from Bogura, Bangladesh.</h3>
 <h3 align="center">Open to work for Jr Frontend Developer || MERN Developer || Full Stack Developer<h3>
-  
-
 
   <div align="center">
     
@@ -17,9 +15,8 @@
 ###  I’m looking - To gain industry level experience to work on a qualitifull organization. 
 ###  I’m trying - To develop my skills and collaborate any open source project.
 
-  
-  
-  ## :computer: Technologies that I know
+## :computer: Technologies that I know
+
 <br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/shahadat74238/shahadat74238/e73763c4c1b25fa82933e8f6bd402cac6d64bd28/assets/Icons/HTML.svg" width="80" height="60"/>
@@ -51,12 +48,6 @@
 
 <br />
 <p align="center">
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shahadat74238&theme=dracula)](https://git.io/streak-stats)
-
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=shahadat74238&theme=dracula&hide_border=true" />
 </p>
 
-
-
-
-  
