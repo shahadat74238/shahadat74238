@@ -3,6 +3,7 @@
 [![Github Banner](https://raw.githubusercontent.com/shahadat74238/shahadat74238/main/assets/image/Github.jpg)](https://www.linkedin.com/in/md-shahadat-hosen-801164288/)
 
 <h3 align="center">A passionate Web Developer from Bogura, Bangladesh.</h3>
+
 <h3 align="center">Open to work for Jr Frontend Developer || MERN Developer || Full Stack Developer<h3>
 
   <div align="center">
@@ -50,6 +51,8 @@
 <div align="center">
 <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com?user=shahadat74238&theme=dracula&hide_border=true" />
 <img width="47%"  src="https://github-readme-stats-salesp07.vercel.app/api?username=shahadat74238&count_private=true&show_icons=true&theme=dracula&rank_icon=github&hide_border=true" alt="readme stats" />
+<br/>
+  <img width="100%" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=shahadat74238&hide=HTML&langs_count=8&layout=compact&theme=dracula&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 
