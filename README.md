@@ -48,8 +48,8 @@
 
 <br />
 <div align="center">
-<img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=shahadat74238&theme=dracula&hide_border=true" />
-<img width="47%" align="right" src="https://github-readme-stats-salesp07.vercel.app/api?username=shahadat74238&count_private=true&show_icons=true&theme=dracula&rank_icon=github&hide_border=true" alt="readme stats" />
+<img width="50%"  src="https://github-readme-streak-stats.herokuapp.com?user=shahadat74238&theme=dracula&hide_border=true" />
+<img width="47%"  src="https://github-readme-stats-salesp07.vercel.app/api?username=shahadat74238&count_private=true&show_icons=true&theme=dracula&rank_icon=github&hide_border=true" alt="readme stats" />
 </div>
 
 
