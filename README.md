@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shahadat Hosen</h1>
-<h3 align="center">A passionate frontend developer from Bogura, Bangladesh.</h3>
-<h3 align="center">Open to work for Jr Frontend developer<h3>
+
+![App Screenshot](https://raw.githubusercontent.com/shahadat74238/shahadat74238/main/assets/image/Github.jpg)
+
+<h3 align="center">A passionate Web Developer from Bogura, Bangladesh.</h3>
+<h3 align="center">Open to work for Jr Frontend Developer || MERN Developer || Full Stack Developer<h3>
   
 
 
