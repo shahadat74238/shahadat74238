@@ -9,7 +9,7 @@
 
   <div align="center">
     
-[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https:https://www.linkedin.com/in/md-shahadat-hosen-801164288/)
+[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/md-shahadat-hosen-801164288/)
 [<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/Shahadat.74238)
   </div>
   
