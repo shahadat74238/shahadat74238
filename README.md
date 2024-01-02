@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate Web Developer from Bogura, Bangladesh.</h3>
 
-<h3 align="center">Open to work for Jr Frontend Developer || MERN Developer || Full Stack Developer<h3>
+<h3 align="center">Open to work for Jr Frontend Developer | MERN Developer | Full Stack Developer<h3>
 
   <div align="center">
     
